@@ -32,3 +32,12 @@ li {
   margin-left: 10px;
   height: 50px;
 }
+
+.copyright {
+  margin-left: 20px;
+  text-align: left;
+}
+
+.contact {
+  height: 200px;
+}
